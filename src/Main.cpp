@@ -17,7 +17,10 @@ int main(){
 
 	Math mathThread;
 	Timer timerThread;
+	FileProcessing FileThread;
 
+	std::thread mThread([&mathThread]() {mathThread.playGame();});
+	std::thread tThread([&timerThread]() {timerThread.playTimer();});
 	
 	
 	timerThread.playTimer();

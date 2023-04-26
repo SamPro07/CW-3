@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\src\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\src\Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\src\Math_O.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\src\File_RW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\include\File_RW.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\include\Math_O.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="H:\Documents\Year 2 C++\cw-3---multithreading-SamPro07-main\include\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ABCB547A-B148-3776-8D9B-2B9ED7604FAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{77394B2C-8BE6-3934-B805-7A6ED92B2C84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
